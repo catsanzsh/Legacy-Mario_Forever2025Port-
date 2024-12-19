@@ -1,6 +1,6 @@
 import pygame
 import json
-
+## [C] Team Flames 20XX
 # Constants
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
